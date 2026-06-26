@@ -137,7 +137,28 @@ Uno de los mayores desafíos fue mi nula experiencia con este tipo de programas.
 
 
 
+
 A pesar de estos desafíos, el resultado obtenido para mi demuestra un avance en el manejo de herramientas de programación. Este proyecto me permitió comprender conceptos técnicos, también valorar el proceso de experimentación y resolución de problemas. Como resultado, terminé el trabajo con una mayor confianza para enfrentar nuevos proyectos que involucren programación.
+
+
+
+
+
+
+
+
+
+
+
+DIAGRAMA DE FLUJO 
+
+
+
+
+
+
+
+<img width="550" height="777" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/a801f3fa-3eda-4e80-b06e-423bebcf8f4b" />
 
 
 
